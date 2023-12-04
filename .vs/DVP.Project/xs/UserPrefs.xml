@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{6C1B98CA-039D-42EA-87FB-995EC7BDDF52}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DVP.Project.Api/Application/Commands/User/ValidatorUserCommandHandler.cs">
+    <Files>
+      <File FileName="DVP.Project.Api/Controllers/UserController.cs" Line="53" Column="76" />
+      <File FileName="DVP.Project.Api/Controllers/PersonController.cs" Line="56" Column="52" />
+      <File FileName="DVP.Project.Api/Application/Queries/Person/GetPersonsQueryHandler.cs" Line="1" Column="1" />
+      <File FileName="DVP.Project.Api/Application/Commands/User/ValidatorUserCommand.cs" Line="15" Column="36" />
+      <File FileName="DVP.Project.Api/Application/Commands/User/ValidatorUserCommandHandler.cs" Line="17" Column="56" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DVP.Project" expanded="True">
+            <Node name="DVP.Project.Api" expanded="True">
+              <Node name="Application" expanded="True">
+                <Node name="Commands" expanded="True">
+                  <Node name="User" expanded="True">
+                    <Node name="ValidatorUserCommandHandler.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Configuration" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Infrastructure" expanded="True">
+                <Node name="AutofactModules" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="DVP.Project.Domain" expanded="True">
+              <Node name="AggregatesModel" expanded="True">
+                <Node name="PersonAggregate" expanded="True" />
+                <Node name="UserAggregate" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="DVP.Project.Infrastructure" expanded="True">
+              <Node name="Repository" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DVP.Project.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

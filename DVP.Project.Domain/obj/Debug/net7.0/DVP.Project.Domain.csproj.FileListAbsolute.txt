@@ -1,0 +1,12 @@
+/Users/admin/Projects/DVP.Project/DVP.Project.Domain/bin/Debug/net7.0/DVP.Project.Domain.deps.json
+/Users/admin/Projects/DVP.Project/DVP.Project.Domain/bin/Debug/net7.0/DVP.Project.Domain.dll
+/Users/admin/Projects/DVP.Project/DVP.Project.Domain/bin/Debug/net7.0/DVP.Project.Domain.pdb
+/Users/admin/Projects/DVP.Project/DVP.Project.Domain/obj/Debug/net7.0/DVP.Project.Domain.csproj.AssemblyReference.cache
+/Users/admin/Projects/DVP.Project/DVP.Project.Domain/obj/Debug/net7.0/DVP.Project.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/DVP.Project/DVP.Project.Domain/obj/Debug/net7.0/DVP.Project.Domain.AssemblyInfoInputs.cache
+/Users/admin/Projects/DVP.Project/DVP.Project.Domain/obj/Debug/net7.0/DVP.Project.Domain.AssemblyInfo.cs
+/Users/admin/Projects/DVP.Project/DVP.Project.Domain/obj/Debug/net7.0/DVP.Project.Domain.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/DVP.Project/DVP.Project.Domain/obj/Debug/net7.0/DVP.Project.Domain.dll
+/Users/admin/Projects/DVP.Project/DVP.Project.Domain/obj/Debug/net7.0/refint/DVP.Project.Domain.dll
+/Users/admin/Projects/DVP.Project/DVP.Project.Domain/obj/Debug/net7.0/DVP.Project.Domain.pdb
+/Users/admin/Projects/DVP.Project/DVP.Project.Domain/obj/Debug/net7.0/ref/DVP.Project.Domain.dll

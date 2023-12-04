@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.0.1" />
+    <PackageReference Include="Nethereum.Web3" Version="4.14.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Otp.NET" Version="1.3.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="SeedWork\" />
+    <None Remove="AggregatesModel\" />
+    <None Remove="AggregatesModel\PersonAggregate\" />
+    <None Remove="AggregatesModel\UserAggregate\" />
+    <None Remove="Models\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="SeedWork\" />
+    <Folder Include="AggregatesModel\" />
+    <Folder Include="AggregatesModel\PersonAggregate\" />
+    <Folder Include="AggregatesModel\UserAggregate\" />
+    <Folder Include="SeedWork\" />
+    <Folder Include="SeedWork\" />
+    <Folder Include="Models\" />
+  </ItemGroup>
+</Project>

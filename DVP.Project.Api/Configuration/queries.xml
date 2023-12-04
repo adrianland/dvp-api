@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<data>
+    	<query name="get-all-persons">
+		<sql>
+			SELECT
+			id,
+			"name" as Name,
+			last_name as LastName,
+			document_number as DocumentNumber,
+			document_type as DocumentType,
+			email as Email,
+			full_name as FullName,
+			full_document as FullDocument,
+			created_at as CreatedAt,
+			updated_at as UpdatedAt
+			FROM persons;
+		</sql>
+	</query>
+
+	<query name="get-person">
+		<sql>
+			SELECT
+			id,
+			"name" as Name,
+			last_name as LastName,
+			document_number as DocumentNumber,
+			document_type as DocumentType,
+			email as Email,
+			full_name as FullName,
+			full_document as FullDocument,
+			created_at as CreatedAt,
+			updated_at as UpdatedAt
+			FROM persons where id = @id;
+		</sql>
+	</query>
+
+		<query name="count-all-persons">
+		<sql>
+			SELECT public.count_all_persons();
+		</sql>
+	</query>
+</data>

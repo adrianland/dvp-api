@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/DVP.Project.Api.props" />
+</Project>
